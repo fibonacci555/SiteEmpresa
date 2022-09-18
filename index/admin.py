@@ -3,6 +3,6 @@ from . models import Contact
 
 # Register your models here.
 
-admin.register(Contact)
+admin.site.register(Contact)
 
 
